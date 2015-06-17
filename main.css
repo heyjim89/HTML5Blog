@@ -142,6 +142,26 @@ h2{
 .tg .tg-8xqh{font-weight:bold;background-color:#c0c0c0}
 
 
+
+.code-snippet{
+  height:75px;
+  width:90%;
+  margin:auto;
+  background-color:grey;
+}
+
+
+.code{
+  display:inline-block;
+  width:212px;;
+}
+
+
+
+
+
+
+
 .gallery-container img {
   margin-right: 3px;
   margin-top: 3px;
