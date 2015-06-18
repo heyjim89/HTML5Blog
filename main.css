@@ -158,9 +158,13 @@ h2{
 
 
 
+.list{
+  margin:0px;
+}
 
-
-
+.margin img{
+  margin:auto;
+}
 
 .gallery-container img {
   margin-right: 3px;
