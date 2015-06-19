@@ -156,14 +156,16 @@ h2{
   width:212px;;
 }
 
-
+.faded p{
+  color:grey;
+}
 
 .list{
   margin:0px;
+    padding:-20px;
 }
-
-.margin img{
-  margin:auto;
+.margin{
+  margin:10px;
 }
 
 .gallery-container img {
