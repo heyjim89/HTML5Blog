@@ -145,17 +145,14 @@ h2{
   height:75px;
   width:90%;
   margin:auto;
-  background-color:grey;
-}
-
-
-.code{
-  display:inline-block;
-  width:212px;;
+  background-color:#CCCCCC;
+  padding:20px;
 }
 
 .faded p{
   color:grey;
+  font-size:.7em;
+  margin-left:20px;
 }
 
 .list{
@@ -218,6 +215,9 @@ input[type="text"]:focus {
 
 .input-list li{
   margin-right:10px;
+}
+.pre{
+  white-space:pre;
 }
 
 /*960 width query*/
